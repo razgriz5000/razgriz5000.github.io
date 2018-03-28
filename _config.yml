@@ -19,7 +19,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   I want to work on improving my Linux skills and other junk.  So this will be a spot for random blatherings.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://flcl.fyi" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
 github_username:  Razgriz5000
 
 # Build settings
@@ -40,5 +39,5 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI4NTI3Nzg1XX0=
+eyJoaXN0b3J5IjpbLTU4OTY5MzUwOF19
 -->
