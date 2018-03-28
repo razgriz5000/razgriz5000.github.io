@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "First acutal post!"
 date:   2018-03-28 00:00:00 -0500
 categories:  update
 ---
