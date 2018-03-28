@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-
+Yo, What's up.  Oh, this is supposed to be about me.  I like anime, video games, and playing with linux.  Oh, and cats and fish.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU5MzY4NjE4XX0=
+eyJoaXN0b3J5IjpbMTgyOTc4MjI1M119
 -->
